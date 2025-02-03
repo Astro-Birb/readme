@@ -22,15 +22,12 @@ You may not:
 ## 6. Limitation of Liability  
 Astro Birb is provided as-is. We do not guarantee that the bot will always work perfectly, and we are not responsible for any issues caused by its use.
 
-## 7. Termination  
-We may suspend or terminate your use of Astro Birb at any time if we believe you’ve violated these terms. You can stop using the bot at any time.
-
-## 8. Changes to Terms  
+## 7. Changes to Terms  
 We may update these terms in the future. When we do, we’ll post the updated version here, and the "last updated" date will change. Continued use of Astro Birb means you accept the new terms.
 
 Last updated: **Feburary 3rd 2025**
 
-## 9. Contact  
+## 8. Contact  
 If you have any questions, feel free to contact us via:
 
 - Email: bugsy@astrobirb.dev
