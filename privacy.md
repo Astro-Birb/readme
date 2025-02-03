@@ -31,10 +31,17 @@ For more information, visit: [Patreon Terms of Service](https://www.patreon.com/
 ## 5. Data Retention  
 We retain the data we collect for as long as necessary to provide our services and improve the user experience. This typically means we retain data for the duration of your usage of Astro Birb and for a reasonable period thereafter for purposes like troubleshooting and system improvements. If you wish to have your data deleted, please contact us, and we will promptly remove it from our records.
 
-## 6. Contact Information  
+## 6. Updates to Privacy Policy  
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. When we update the policy, the new version will be posted on this page with the date of the most recent update. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your data.
+
+The most recent update to this Privacy Policy was made on: **February 3rd 2025**.
+
+## 7. Contact Information  
 If you have any questions or concerns about this Privacy Policy, or if you would like to request access to or deletion of your data, please contact us through the following methods:
 
 - Email: bugsy@astrobirb.dev
 - Discord: https://astrobirb.dev/support
 
 We will respond to your request as soon as possible.
+
+
